@@ -4,7 +4,7 @@
 ### 👩‍💻 Equipe
 - **Desenvolvedor:** Klayver Lima  
 - **Startup:** FarmTech Solutions (FIAP – Inteligência Artificial)
-[GITHUB] (https://github.com/klayverlima05ia/farmtech_fase2)
+![GITHUB] (https://github.com/klayverlima05ia/farmtech_fase2)
 
 ---
 
@@ -33,7 +33,7 @@ A bomba de irrigação é acionada automaticamente conforme as condições simul
 *(Imagem gerada no Wokwi mostrando o circuito completo — anexada abaixo)*  
 
 ![Circuito ESP32 FarmTech](./imagem_circuito.png)
-![Circuito ESP32 FarmTech](./imagem_circuito2.png)
+![Circuito ESP32 FarmTech2](./imagem_circuito2.png)
 ---
 
 ## 🧠 Lógica de Funcionamento
