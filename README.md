@@ -4,7 +4,7 @@
 ### 👩‍💻 Equipe
 - **Desenvolvedor:** Klayver Lima  
 - **Startup:** FarmTech Solutions (FIAP – Inteligência Artificial)
-![GITHUB] (https://github.com/klayverlima05ia/farmtech_fase2)
+[GITHUB] (https://github.com/klayverlima05ia/farmtech_fase2)
 
 ---
 
@@ -77,6 +77,8 @@ FarmTech_Fase2/
 ├─ sketch.ino
 ├─ README.md
 ├─ imagem_circuito.png
+├─ imagem_circuito2.png
+├─ github_link.txt
 └─ video_link.txt
 
 
